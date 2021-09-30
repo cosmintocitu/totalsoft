@@ -6,5 +6,5 @@ import { emailKey } from './cacheKeyFunctions'
 
 //const yourEntityDefaultListFilter = emptyObject
 
-const defaultEmail = { email: 'mama@cc.com' } //email: emptyString
+const defaultEmail = { email: 'admin@totalsoft.ro' } //email: emptyString
 export const defaults = { [emailKey]: defaultEmail }
